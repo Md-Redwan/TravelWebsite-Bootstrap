@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: "Poppins", sans-serif;
+}
+
+.nav-item a{
+    color: white;
+}
+.navbar-nav{
+    gap: 54px;
+}
+.bannerHeading{
+    font-size: 60px;
+    font-weight: 600;
+    color: #008EC4;
+}
+.bannerImg{
+    margin-top: -72px;
+}
+.bannerBox{
+    padding: 40px;
+    border-radius: 32px;
+}
+.bannerBox h3{
+    font-size: 32px;
+    color: #1A1A1A;
+    font-weight: 400;
+    margin-top: 32px;
+}
+
+.selectOption{
+    border: none;
+}
+
+:focus-visible {
+    outline: -webkit-focus-ring-color auto 0px !important;
+}
