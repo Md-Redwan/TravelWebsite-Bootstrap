@@ -3,22 +3,32 @@
     padding: 0;
     font-family: "Poppins", sans-serif;
 }
-
+/* Navbar CSS */
 .nav-item a{
     color: white;
+    font-size: 18px;
 }
 .navbar-nav{
     gap: 54px;
 }
+
+/* Banner CSS */
 .bannerHeading{
     font-size: 60px;
     font-weight: 600;
     color: #008EC4;
 }
 .bannerImg{
-    margin-top: -72px;
+    margin-top: -75px;
+    height: 850px;
+    background-image: url("/image/bannerImage.png");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 .bannerBox{
+    background-color: white;
+    margin-top: -200px !important;
     padding: 40px;
     border-radius: 32px;
 }
@@ -31,8 +41,43 @@
 
 .selectOption{
     border: none;
+    font-size: 20px;
+    font-weight: 600;
+}
+.fa-location-dot{
+    font-size: 32px;
+}
+.fa-calendar-days{
+    font-size: 32px;
+}
+.fa-user-group{
+    font-size: 32px;
+}
+.bannerBTN{
+    font-size: 20px;
+    font-weight: 500;
+    padding: 20px 55px;
 }
 
 :focus-visible {
     outline: -webkit-focus-ring-color auto 0px !important;
+}
+
+/* Choose Us CSS */
+.chooseUs{
+    margin-top: 96px;
+}
+.chooseUs h3{
+    text-align: center;
+    font-size: 40px;
+    font-weight: 700;
+    padding-bottom: 72px;
+}
+.card{
+    border: none;
+}
+.card-title{
+    margin-top: 40px;
+    font-size: 20px;
+    font-weight: 600;
 }
