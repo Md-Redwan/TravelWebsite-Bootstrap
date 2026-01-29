@@ -115,3 +115,8 @@
 #topBook h6{
     font-size: 12px;
 }
+.topBook-btn{
+    padding: 18.5px 47px;
+    font-weight: 700;
+    border-radius: 40px;
+}
