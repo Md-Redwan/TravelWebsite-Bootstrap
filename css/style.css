@@ -81,3 +81,37 @@
     font-size: 20px;
     font-weight: 600;
 }
+
+/* Our Partners CSS */
+#ourPartners h2{
+    font-size: 40px;
+    font-weight: 700;
+    margin-top: 130px;
+    margin-bottom: 72px;
+}
+
+/* Top Book CSS  */
+#topBook h2{
+    font-size: 40px;
+    font-weight: 700;
+    margin-top: 120px;
+    margin-bottom: 60px;
+}
+#topBook h4{
+    font-size: 16px;
+    font-weight: 700;
+}
+#topBook h5{
+    font-size: 18px;
+    font-weight: 700;
+}
+.topTextBox{
+    width: 256px;
+    margin-top: 20px;
+}
+.fa-location-dot{
+    font-size: 20px;
+}
+#topBook h6{
+    font-size: 12px;
+}
