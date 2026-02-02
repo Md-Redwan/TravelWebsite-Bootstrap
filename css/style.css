@@ -120,3 +120,26 @@
     font-weight: 700;
     border-radius: 40px;
 }
+
+/* explore section css */
+#explore{
+    margin-top: 104px;
+}
+.exploreBg{
+    background-image: url('../image/exploreBanner.png');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+#explore h2{
+    font-size: 104px;
+    font-weight: 700;
+    color: white;
+    padding-top: 161px;
+    padding-bottom: 148px;
+}
+#explore p{
+    font-size: 20px;
+    color: white;
+    padding-bottom: 42px;
+}
