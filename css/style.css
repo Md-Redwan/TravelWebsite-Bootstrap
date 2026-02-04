@@ -231,3 +231,43 @@
 .testimonialsCard-Img{
     margin-top: -100px;
 }
+#special-offers{
+    /* padding-top: 112px; */
+    padding: 112px 0px;
+}
+#special-offers img{
+    border-radius: 20px 0px 0px 20px;
+}
+.special-offers-box{
+    background-color: #F3F3F3;
+    border-radius: 24px;
+}
+.specialSec-Box-1{
+    width: 33%;
+}
+.specialSec-Box-2{
+    width: 67%;
+}
+.specialSec-Box-2 h3{
+    font-size: 32px;
+    font-weight: 700;
+    padding-bottom: 40px;
+}
+.special-offers-box button{
+    font-weight: 700;
+    padding: 18.5px 32px;
+    border-radius: 72px;
+    background-color: #008395;
+    color: white;
+    border: none;
+}
+.specialSec-Box-2 form{
+    background-color: white;
+    padding: 8px 8px 8px 24px;
+    border-radius: 56px;
+}
+.specialSec-Box-2 form input{
+    border: none;
+    outline: none !important;
+    width: 70%;
+}
