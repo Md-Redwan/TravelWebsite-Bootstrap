@@ -165,6 +165,7 @@
     border: 1px solid #D8D8D8;
     padding: 8px;
     cursor: pointer;
+    border-radius: 10px;
 }
 .featureCard{
     margin-top: 51px;
@@ -187,7 +188,46 @@
     font-size: 24px;
     font-weight: 700;
 }
-.card-text{
+#feature .card-text{
     margin-top: 32px;
     margin-bottom: 20px;
+}
+
+/* Testimonials Section CSS */
+#Testimonials{
+    margin-top: 141px;
+}
+.testimonialsBg{
+    height: 563px;
+    background-image: url('../image/TestimonialBg.png');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.testimonials-title{
+    padding-top: 98px;
+    color: white;
+}
+.testimonials-title h3{
+    font-size: 40px;
+    font-weight: 700;
+}
+.testimonials-card{
+    margin-top: 80px;
+}
+.testimonials-card-title{
+    padding-bottom: 24px;
+}
+.testimonials-card-title h5{
+    font-size: 16px;
+    font-weight: 700;
+}
+.testimonials-card-title h6{
+    font-size: 12px;
+}
+.testimonials-card-title i{
+    color: #FFC452;
+}
+.testimonialsCard-Img{
+    margin-top: -100px;
 }
