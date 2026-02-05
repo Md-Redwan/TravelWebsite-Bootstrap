@@ -271,3 +271,45 @@
     outline: none !important;
     width: 70%;
 }
+
+/* Footer Section CSS */
+#footer{
+    background-color: black;
+    color: white;
+    padding-top: 66px;
+    padding-bottom: 48px;
+}
+#footer h4{
+    font-size: 20px;
+    font-weight: 700;
+    padding-bottom: 32px;
+}
+#footer ul li{
+    list-style: none;
+    margin-top: 24px;
+}
+#footer ul li a{
+    text-decoration: none;
+    color: #BFBFBF;
+}
+ol, ul {
+    padding-left: 0px !important;
+}
+#footer i{
+    font-size: 24px;
+    cursor: pointer;
+}
+.footerBottom{
+    border-bottom: 1px solid #666666;
+    padding-bottom: 102px;
+    margin-bottom: 30px;
+}
+
+#footer h6{
+    font-size: 12px;
+    font-weight: 400;
+}
+
+.fa-copyright{
+    font-size: 12px !important;
+}
